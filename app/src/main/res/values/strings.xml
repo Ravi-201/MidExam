@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mid-Exam-MAD</string>
+
+    <string-array name="majors">
+        <item>Informatics</item>
+        <item>Information Systems</item>
+    </string-array>
+
+</resources>
